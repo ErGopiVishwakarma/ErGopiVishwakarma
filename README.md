@@ -1,11 +1,11 @@
-### Hi there 👋 I am Ajay Vishwakarma
+### Hi there 👋 I am Gopi Vishwakarma
 
 # Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Ajay;Full+stack+web+developer...)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Gopi;Full+stack+web+developer...)](https://git.io/typing-svg)
  
- <p>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able toperform well in a team. Passionate about coding and equipped with a diverse andpromising skill-set with a special emphasis on Reactjs, JavaScript, Java, Python, Html, Css, UIs, MongoDB, (Mern Stack). Able to see things from various points of view and able to understand and follow instructions.</i></p>
+ <p>- Aspiring full stack web developer with excellent problem-solving skills. Able toperform well in a team. Passionate about coding and equipped with a diverse andpromising skill-set with a special emphasis on Reactjs, JavaScript, Java, Python, Html, Css, UIs, MongoDB, (Mern Stack). Able to see things from various points of view and able to understand and follow instructions.</p>
 
  
 
@@ -43,8 +43,8 @@
 ## Connect with me:-
 <p align="left">
 
-<a href="# target="_blank" rel="noopener">
-  <img align="left" alt="Ajay Vishwakarma" | Twitter" width="50px" color="blue" src="https://img.icons8.com/fluency/344/twitter.png" />
+<a href="#" target="_blank" rel="noopener">
+  <img align="left" alt="Gopi Vishwakarma" | Twitter" width="50px" color="blue" src="https://img.icons8.com/fluency/344/twitter.png" />
 </a>
  
 <a href="https://www.linkedin.com/in/gopi-vishwakarma-95b325250/" target="_blank" rel="noopener" >
@@ -61,7 +61,7 @@
 ## Interested on my top projects?
 
 <p>
-<a href="# target="_blank" rel="noopener"><img src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="pantaloons" width="150px" height="100px"/></a>
+<a href="# target="_blank" rel="noopener"><img src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="pantaloons" width="150px" height="70px"/></a>
 
 </p>
 
