@@ -85,8 +85,6 @@
    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" margin-left="20px"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" margin-left="20px"/>
    <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="express" width="60" height="48" margin-left="20px"/> 
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" margin-left="20px"/> 
-   <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" margin-left="20px"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" margin-left="20px"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" margin-left="20px"/>                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" margin-left="20px"/>                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" margin-left="20px"/>                 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" margin-left="20px"/>  
@@ -95,39 +93,6 @@
 
 </br>
 </br>
-
-## 📊 My Github Stats
-
-
-</br>
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-KV&theme=radical) 
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-KV&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ajay-KV/github-readme-stats)
-
-</br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</br>
-
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ajay-KV&theme=gruvbox&hide_border=true&area=true)
-<br/>
-<br/>
-
-
-
-</p>
 
 **[⬆ Back to Top](#Hi-there-👋-I-am-Gopi-Vishwakarma)**
 
