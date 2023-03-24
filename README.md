@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 💬 Ask me about React, NodeJS, HTML, CSS, Express JS, Mongo DB, Python, Java, JavaScript
+- 💬 Ask me about React, NodeJS, HTML, CSS, Express JS, Mongo DB, Python, JavaScript
 
 - 📫 Reach me Through: g2468vi@gmail.com 😄
 
