@@ -61,7 +61,7 @@
 ## Interested on my top projects?
 
 <p>
-<a href="https://lustrous-gumption-92216f.netlify.app/"_blank" rel="noopener" target="_blank><img src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="pantaloons" width="150px" height="70px"/></a>
+<a href="https://lustrous-gumption-92216f.netlify.app/" target="_blank" ><img src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="pantaloons" width="150px" height="70px"/></a>
 
 </p>
 
