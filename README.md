@@ -85,13 +85,24 @@
    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" margin-left="20px"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" margin-left="20px"/>
    <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="express" width="60" height="48" margin-left="20px"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" margin-left="20px"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" margin-left="20px"/>                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" margin-left="20px"/>                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" margin-left="20px"/>                 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" margin-left="20px"/>                                
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" margin-left="20px"/>  
      
-</p>
+</p>      
+                                                                                                                                       </br>                                                                                                                                       ## 📊 My Github Stats
+                                                                                                                                        </br>
+                                                                                                                                        
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ErGopiVishwakarma&show_icons=true&theme=radical) 
 
 </br>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErGopiVishwakarma&theme=radical) 
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErGopiVishwakarma&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ErGopiVishwakarma/github-readme-stats)
+
 </br>
 
 **[⬆ Back to Top](#Hi-there-👋-I-am-Gopi-Vishwakarma)**
