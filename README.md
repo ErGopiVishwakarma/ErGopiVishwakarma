@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Gopi Vishwakarma
 
-# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+<!-- # Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"> -->
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Gopi;Full+stack+web+developer...)](https://git.io/typing-svg)
@@ -23,11 +23,11 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 💬 Ask me about React, NodeJS, HTML, CSS, Express JS, Mongo DB, Python, JavaScript
+- 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB
 
-- 📫 Reach me Through:https://ergopivishwakarma.github.io/ 😄
+- 📫 Reach me Through: https://ergopivishwakarma.github.io/ 
 
-- 📄 Resume https://drive.google.com/drive/folders/1cLUbqBehw7cXV3woxFVwYYbrS7TYoeky?usp=share_link
+- 📄 Resume https://drive.google.com/file/d/1G3LDPbi-J5cLK2-2urdqK6Q7XNd7bsJ9/view?usp=sharing
 
 - ⚡ Fun fact:I Always try to learn something new 
 
