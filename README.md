@@ -60,8 +60,31 @@
 
 ## Interested on my top projects?
 
+<table border="1px solid white">
+ <tr>
+  <th>sr no.</th>
+  <th>project name</th>
+  <th>tech stack used</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td><a href="https://twitter-umber.vercel.app/">twitter</a></td>
+  <td>mongoDB, React, express, ChakraUi</td>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td><a href="https://tech-cube-ten.vercel.app/">tech-cube</a></td>
+  <td>React, Redux, json-server, ChakraUi</td>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td><a href="https://recipefit.vercel.app/">recipe-fit</a></td>
+  <td>mongoDB, React, express, ChakraUi</td>
+ </tr>
+</table>
+
 <p>
- <a href="https://twitter-umber.vercel.app/" target="_blank" ><img src="[https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png)" alt="pantaloons" width="150px" height="70px"/></a>
+ <a href="https://twitter-umber.vercel.app/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png" alt="pantaloons" width="150px" height="70px"/></a>
 <a href="https://tech-cube-ten.vercel.app/" target="_blank" ><h1 style="padding:'10px';" >tech-cube</h1></a>
 <a href="https://recipefit.vercel.app/" target="_blank" ><img c="https://recipefit.vercel.app/static/media/favicon.ca1460e7a17e0ba85b81.png" alt="pantaloons" width="150px" height="70px"/></a>
 <a href="https://lustrous-gumption-92216f.netlify.app/" target="_blank" ><img src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="pantaloons" width="150px" height="70px"/></a>
