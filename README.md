@@ -36,17 +36,7 @@
 
 
 </br>
-<hr>
-</br>
-</br>
-
-
-
-
-
-<br />
-<br />
-<br />                                                                                                                     
+<hr>                                                                                                                  
 
 ## Interested on my top projects?
 
@@ -62,17 +52,17 @@
   <td>mongoDB, React, express, ChakraUi</td>
  </tr>
  <tr>
-  <td>1</td>
+  <td>2</td>
   <td><a href="https://tech-cube-ten.vercel.app/" target="_blank">tech-cube</a></td>
   <td>React, Redux, json-server, ChakraUi</td>
  </tr>
  <tr>
-  <td>1</td>
+  <td>3</td>
   <td><a href="https://recipefit.vercel.app/" target="_blank">recipe-fit</a></td>
   <td>mongoDB, React, express, ChakraUi</td>
  </tr>
   <tr>
-  <td>1</td>
+  <td>4</td>
   <td><a href="https://lustrous-gumption-92216f.netlify.app/" target="_blank">amazon</a></td>
   <td>html, css, javascript</td>
  </tr>
