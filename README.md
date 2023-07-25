@@ -25,9 +25,9 @@
 
 - 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB
 
-- 📫 Reach me Through: https://ergopivishwakarma.github.io/ 
+- 📫 Reach me Through: <a href="https://ergopivishwakarma.github.io/">Portfolio</a>
 
-- 📄 Resume https://drive.google.com/file/d/1G3LDPbi-J5cLK2-2urdqK6Q7XNd7bsJ9/view?usp=sharing
+- 📄 Resume : <a href="https://drive.google.com/file/d/1G3LDPbi-J5cLK2-2urdqK6Q7XNd7bsJ9/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact:I Always try to learn something new 
 
@@ -39,7 +39,6 @@
 <hr>        
 ## Get in touch.
 <h1><a href="https://www.linkedin.com/in/gopi-vishwakarma-95b325250/">LinkedIn</a></h1>
-<h1><a href="https://ergopivishwakarma.github.io/">Portfolio</a></h1>
  
 ## Interested on my top projects?
 
