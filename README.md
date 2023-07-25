@@ -40,16 +40,6 @@
 </br>
 </br>
 
-## Connect with me:-
-<p align="left">
-
-<a href="#" target="_blank" rel="noopener">
-  <img align="left" alt="Gopi Vishwakarma" | Twitter" width="50px" color="blue" src="https://img.icons8.com/fluency/344/twitter.png" />
-</a>
- 
-<a href="https://www.linkedin.com/in/gopi-vishwakarma-95b325250/" target="_blank" rel="noopener" >
-  <img align="left" alt="Ajay vishwakarma" width="50px" src="https://img.icons8.com/nolan/2x/linkedin.png" />
-</a>
 
 
 
@@ -81,16 +71,12 @@
   <td><a href="https://recipefit.vercel.app/" target="_blank">recipe-fit</a></td>
   <td>mongoDB, React, express, ChakraUi</td>
  </tr>
+  <tr>
+  <td>1</td>
+  <td><a href="https://lustrous-gumption-92216f.netlify.app/" target="_blank">amazon</a></td>
+  <td>html, css, javascript</td>
+ </tr>
 </table>
-
-<p>
- <a href="https://twitter-umber.vercel.app/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png" alt="pantaloons" width="150px" height="70px"/></a>
-<a href="https://tech-cube-ten.vercel.app/" target="_blank" ><h1 style="padding:'10px';" >tech-cube</h1></a>
-<a href="https://recipefit.vercel.app/" target="_blank" ><img c="https://recipefit.vercel.app/static/media/favicon.ca1460e7a17e0ba85b81.png" alt="pantaloons" width="150px" height="70px"/></a>
-<a href="https://lustrous-gumption-92216f.netlify.app/" target="_blank" ><img src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="pantaloons" width="150px" height="70px"/></a>
-
- 
-</p>
 
 </br>
 </br>
