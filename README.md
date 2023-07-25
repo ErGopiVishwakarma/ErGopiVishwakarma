@@ -68,17 +68,17 @@
  </tr>
  <tr>
   <td>1</td>
-  <td><a href="https://twitter-umber.vercel.app/">twitter</a></td>
+  <td><a href="https://twitter-umber.vercel.app/" target="_blank">twitter</a></td>
   <td>mongoDB, React, express, ChakraUi</td>
  </tr>
  <tr>
   <td>1</td>
-  <td><a href="https://tech-cube-ten.vercel.app/">tech-cube</a></td>
+  <td><a href="https://tech-cube-ten.vercel.app/" target="_blank">tech-cube</a></td>
   <td>React, Redux, json-server, ChakraUi</td>
  </tr>
  <tr>
   <td>1</td>
-  <td><a href="https://recipefit.vercel.app/">recipe-fit</a></td>
+  <td><a href="https://recipefit.vercel.app/" target="_blank">recipe-fit</a></td>
   <td>mongoDB, React, express, ChakraUi</td>
  </tr>
 </table>
