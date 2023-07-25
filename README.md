@@ -38,7 +38,7 @@
 </br>
 <hr>        
 ## Get in touch.
-<a href="https://www.linkedin.com/in/gopi-vishwakarma-95b325250/"><h1>LinkedIn</h1></a>
+<h1><a href="https://www.linkedin.com/in/gopi-vishwakarma-95b325250/">LinkedIn</a></h1>
 
 ## Interested on my top projects?
 
