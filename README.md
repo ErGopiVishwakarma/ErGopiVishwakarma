@@ -94,8 +94,10 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" margin-left="20px"/>  
      
 </p>      
-                                                                                                                                       </br>                                                                                                                                       ## 📊 My Github Stats
-                                                                                                                                        </br>
+                                                                                                                                       </br> ![GitHub metrics](https://metrics.lecoq.io/tanmoy0151)
+                                                                                                                                       <br />
+                                                                        ## 📊 My Github Stats
+                                                                                                                                    </br>
                                                                                                                                         
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ErGopiVishwakarma&show_icons=true&theme=radical) 
 
