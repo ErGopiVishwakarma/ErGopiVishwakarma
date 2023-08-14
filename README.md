@@ -103,8 +103,8 @@
 
 </br>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=ergopivishwakarma&theme=radical&hide_border=false)<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErGopiVishwakarma&theme=radical) 
 
 </br>
 
