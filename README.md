@@ -48,23 +48,28 @@
   <th>project name</th>
   <th>tech stack used</th>
  </tr>
- <tr>
+  <tr>
   <td>1</td>
+  <td><a href="https://post1-alpha-lemon.vercel.app/" target="_blank">Instagram</a></td>
+  <td>React, Redux, Typescript, Tailwind-Css, MongoDB, Express, NodeJS, Socket.io</td>
+ </tr>
+ <tr>
+  <td>2</td>
   <td><a href="https://twitter-umber.vercel.app/" target="_blank">twitter</a></td>
   <td>mongoDB, React, express, ChakraUi</td>
  </tr>
  <tr>
-  <td>2</td>
+  <td>3</td>
   <td><a href="https://tech-cube-ten.vercel.app/" target="_blank">tech-cube</a></td>
   <td>React, Redux, json-server, ChakraUi</td>
  </tr>
  <tr>
-  <td>3</td>
+  <td>4</td>
   <td><a href="https://recipefit.vercel.app/" target="_blank">recipe-fit</a></td>
   <td>mongoDB, React, express, ChakraUi</td>
  </tr>
   <tr>
-  <td>4</td>
+  <td>5</td>
   <td><a href="https://lustrous-gumption-92216f.netlify.app/" target="_blank">amazon</a></td>
   <td>html, css, javascript</td>
  </tr>
