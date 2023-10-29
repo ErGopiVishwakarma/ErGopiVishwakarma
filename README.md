@@ -92,10 +92,14 @@
    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" margin-left="20px"/>
    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" margin-left="20px"/>  
    <img src="https://img.icons8.com/color/48/000000/redux.png" width="48" height="48" margin-left="20px"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" width="48" height="48" margin-left="20px"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDjbNe_GAW53OnUe3-Y3KFgnRu-fTZVp9_BrmAl7-&s" width="48" height="48" margin-left="20px"/>
+   <img src="https://www.happylifecreators.com/wp/wp-content/uploads/2022/06/chakra-ui_title2-770x528.png" width="48" height="48" margin-left="20px"/>  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" width="48" height="48" margin-left="20px"/>  
    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" margin-left="20px"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" margin-left="20px"/>
+   <img src="https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="48" height="48" margin-left="20px"/>
    <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="express" width="60" height="48" margin-left="20px"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" margin-left="20px"/>                                
+   <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" width="48" height="48" margin-left="20px"/>                                
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" margin-left="20px"/>  
      
 </p>      
