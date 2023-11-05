@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB
+- 💬 Ask me about HTML, CSS, JavaScript, React, TypeScript, NodeJS, ExpressJS, MongoDB, Socket.io
 
 - 📫 Reach me Through: <a href="https://ergopivishwakarma.github.io/">Portfolio</a>
 
