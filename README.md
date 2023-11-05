@@ -56,7 +56,7 @@
  <tr>
   <td>2</td>
   <td><a href="https://twitter-umber.vercel.app/" target="_blank">twitter</a></td>
-  <td>mongoDB, React, express, ChakraUi</td>
+  <td>React, NodeJS, express, MongoDB, OAuth, ChakraUi</td>
  </tr>
  <tr>
   <td>3</td>
@@ -66,12 +66,12 @@
  <tr>
   <td>4</td>
   <td><a href="https://recipefit.vercel.app/" target="_blank">recipe-fit</a></td>
-  <td>mongoDB, React, express, ChakraUi</td>
+  <td>React, NodeJS, express, MongoDB, ChakraUi</td>
  </tr>
   <tr>
   <td>5</td>
   <td><a href="https://lustrous-gumption-92216f.netlify.app/" target="_blank">amazon</a></td>
-  <td>html, css, javascript</td>
+  <td>HTML, CSS, JavaScript</td>
  </tr>
 </table>
 
