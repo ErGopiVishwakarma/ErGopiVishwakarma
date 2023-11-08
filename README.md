@@ -25,7 +25,7 @@
 
 - 💬 Ask me about HTML, CSS, JavaScript, React, TypeScript, NodeJS, ExpressJS, MongoDB, Socket.io
 
-- 📫 Reach me Through: [!Portfolio](https://ergopivishwakarma.github.io/)
+- 📫 Reach me Through: [Portfolio](https://ergopivishwakarma.github.io/)
 
 - 📄 Resume : <a href="https://drive.google.com/file/d/1G3LDPbi-J5cLK2-2urdqK6Q7XNd7bsJ9/view?usp=sharing">Resume</a>
 
