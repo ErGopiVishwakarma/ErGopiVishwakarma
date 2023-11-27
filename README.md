@@ -27,7 +27,7 @@
 
 - 📫 Reach me Through: [Portfolio](https://ergopivishwakarma.github.io/)
 
-- 📄 Resume : <a href="https://drive.google.com/file/d/1G3LDPbi-J5cLK2-2urdqK6Q7XNd7bsJ9/view?usp=sharing">Resume</a>
+- 📄 Resume : <a href="https://drive.google.com/file/d/1aY4j9eD_NmtaD3DIELXkYchVCrizdsTD/view">Resume</a>
 
 - ⚡ Fun fact:I Always try to learn something new 
 
